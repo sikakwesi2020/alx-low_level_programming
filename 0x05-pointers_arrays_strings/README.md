@@ -1,29 +1,27 @@
-File 0-isupper.c is a function that checks for uppercase character.
+ File 0-reset_to_98.c is a function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
-File 1-isdigit.c is a function that checks for a digit (0 through 9).
+File 1-swap.c is a function that swaps the values of two integers.
 
-File 2-mul.c is a function that multiplies two integers.
+File 2-strlen.c is a function that returns the length of a string.
 
-File 3-print_numbers.c is a function that prints the numbers, from 0 to 9, followed by a new line.
+File 3-puts.c is a function that prints a string, followed by a new line, to stdout.
 
-File 4-print_most_numbers.c is a function that prints the numbers, from 0 to 9, followed by a new line.
+File 4-print_rev.c is a function that prints a string, in reverse, followed by a new line.
 
-File 5-more_numbers.c is a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
+File 5-rev_string.c is a function that reverses a string.
 
-File 6-print_line.c is a function that draws a straight line in the terminal.
+File 6-puts2.c is a function that prints one char out of 2 of a string, followed by a new line.
 
-File 7-print_diagonal.c is a function that draws a diagonal line on the terminal.
+File 7-puts_half.c is a function that prints half of a string, followed by a new line.
 
-File 8-print_square.c is a function that prints a square, followed by a new line.
+File 8-print_array.c is a function that prints n elements of an array of integers, followed by a new line.
 
-File 9-fizz_buzz.c is a program that prints the numbers from 1 to 100, followed by a new line, but for multiples of three prints Fizz instead of the number and for the multiples of five prints Buzz.
+File 9-strcpy.c is a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
 
-File 10-print_triangle.c is a function that prints a triangle, followed by a new line.
+File 100-atoi.c is a function that convert a string to an integer.
 
-File 100-prime_factor.c is a program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
-
-File 101-print_number.c is a function that prints an integer using only _putchar().
+File 101-keygen.c is a program that generates random valid passwords for the program 101-crackme.
 
 File _putchar.c contains the _putchar() function definition.
 
-File holberton.h is the header file containing all the function prototypes used in this project.This is a readme for ALX C PROGRAMMING COURSE
+File holberton.h is the header file containing all the function prototypes used in this project.
